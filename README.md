@@ -1,12 +1,3 @@
-Ideas:
-
-- Charles - 'go faster'
-- See if it improves
-
-Need a qa training set.
-
-
-
 Idea stack:
 ~~Get it working~~
 ~~Modify to tell it to put a number on last line (and bump reward fxn)~~ (not needed!)
